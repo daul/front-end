@@ -1,4 +1,4 @@
-# REACT.JS Skeleton
+# UShare Project
 
 This project is a React workspace that you can simply start working on React.js project right away.
 
